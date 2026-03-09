@@ -2,7 +2,7 @@
 
 **間接的プロンプトインジェクション対策** — AIエージェントが外部コンテンツを処理する前に、悪意ある命令を検出・サニタイズする VS Code Copilot Agent + Skill です。
 
-[English README](../../README.md)
+[English README](../en/README.md)
 
 ---
 
